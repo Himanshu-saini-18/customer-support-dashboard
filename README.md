@@ -118,7 +118,7 @@ Redux Toolkit handles ticket data, filters, the selected ticket, loading states,
 
 ## Live Demo
 
-Add deployed project link here.
+https://plantperfect.in
 
 ## Repository
 
